@@ -1,6 +1,3 @@
-/**
- * Module dependencies.
- */
 
 // mongoose setup
 require('./db');
