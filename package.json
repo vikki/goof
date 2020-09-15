@@ -20,7 +20,7 @@
     "ejs": "2.5.5",
     "ejs-locals": "1.0.2",
     "errorhandler": "1.4.3",
-    "express": "4.16.0",
+    "express": "4.17.1",
     "express-fileupload": "1.1.10",
     "humanize-ms": "1.0.2",
     "jquery": "^3.5.0",
