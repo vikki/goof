@@ -2,7 +2,7 @@
 version: v1.25.0
 # ignores vulnerabilities until expiry date; change duration by modifying expiry date
 ignore:
-  'npm:qs:20170213':
+  '--npm:qs:20170213':
     - '*':
         reason: None Given
         expires: 2122-12-29T08:08:41.608Z
